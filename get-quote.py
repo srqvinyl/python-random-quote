@@ -1,5 +1,7 @@
+last = 13
+  rnd = random.randint(0, last)
 def main():
-  print("qoutes[14]")
+  print("qoutes[rnd]")
 
   #f = open("quotes.txt")
   #quotes = f.readlines()
