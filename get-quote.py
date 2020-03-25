@@ -1,5 +1,5 @@
 def main():
-  print("qoutes[0]")
+  print("qoutes[14]")
 
   #f = open("quotes.txt")
   #quotes = f.readlines()
